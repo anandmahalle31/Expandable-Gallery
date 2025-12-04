@@ -31,15 +31,7 @@ JavaScript (Event Handling)
 🧩 How It Works
 
 The gallery arranges images horizontally, and when the user hovers over an image:
-
 The hovered image expands smoothly
-
 The remaining images shrink
-
 A beautiful animation highlights the selected image
 
-
-✨ Future Improvements
-Auto-slide animation
-Additional layout styles
-Dark/Light mode toggle
