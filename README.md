@@ -8,6 +8,9 @@ Images expand smoothly when hovered or clicked, creating a modern, animated gall
 🔗 View Project: https://anandmahalle31.github.io/Expandable-Gallery/
 
 📸 Preview
+## 📸 Preview
+
+![Preview](./Preview.png)
 
 
 🎯 Features
